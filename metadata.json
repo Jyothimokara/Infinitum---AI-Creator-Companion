@@ -1,0 +1,8 @@
+{
+  "name": "Infinitum - AI Creator Companion",
+  "description": "A sophisticated command center for content creators featuring Kanban boards, growth analytics, and AI-powered strategy tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
